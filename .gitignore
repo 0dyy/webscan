@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# scan output - never commit results from real targets
+/webscan_report.html
+/*.json
